@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Ayu Light",
+    "window.zoomLevel": 1,
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "workbench.iconTheme": "vscode-icons-mac",
+    "editor.fontSize": 13,
+    "editor.cursorBlinking": "expand",
+    "editor.fontWeight": "200",
+    "editor.minimap.side": "left",
+    "terminal.integrated.fontWeight": "bold"
+}
