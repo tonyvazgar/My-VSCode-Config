@@ -1,11 +1,14 @@
 {
-    "workbench.colorTheme": "Ayu Light",
-    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Slack Theme Ochin",
+    "window.zoomLevel": 2,
     "python.defaultInterpreterPath": "/usr/bin/python3",
     "workbench.iconTheme": "vscode-icons-mac",
     "editor.fontSize": 13,
     "editor.cursorBlinking": "expand",
     "editor.fontWeight": "200",
     "editor.minimap.side": "left",
-    "terminal.integrated.fontWeight": "bold"
+    "terminal.integrated.fontWeight": "bold",
+    "workbench.editorAssociations": [],
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "SpaceMono Nerd Font, Menlo, Monaco, 'Courier New', monospace"
 }
